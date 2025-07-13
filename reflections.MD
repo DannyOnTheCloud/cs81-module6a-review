@@ -7,5 +7,5 @@ It uses 'this' to tie the data and behavior of our code together by  using 'this
 
 
 What would you do differently if you wrote this object from scratch?
-I would have honestly just added maybe a a line of code to do checks for errrors one would be checking for an error if a user has ran out of the songs in his playlist and mayybe warn them their playlist is now empty instead of just jumping them to the very beginning of the new song. 
+I would have honestly just added maybe a a line of code to do checks for errors one would be checking for an error if a user has ran out of the songs in his playlist and mayybe warn them their playlist is now empty instead of just jumping them to the very beginning of the new song. Howeer, that could not be helpful if a user is maybe just trying to restart the playlist all over but it would function as a warning rather then a complete stop. 
 
