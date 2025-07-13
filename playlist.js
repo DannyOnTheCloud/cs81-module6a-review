@@ -4,7 +4,7 @@
 function Playlist(name) {
   this.name = name;
   this.songs = [];
-  this.currentSong = null;
+  this.currentSong = null;  //Pretty basic function empty
 }
 // Adding methods to the Playlist prototype
 Playlist.prototype.addSong = function(songTitle) {
