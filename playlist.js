@@ -41,6 +41,7 @@ myMix.addSong("Lofi Study");
 myMix.addSong("Morning Vibes"); // Listing all songs in the playlist
 myMix.addSong("Chillhop Beats");// Listing all songs in the playlist
 myMix.addSong("Evening Jazz");// Listing all songs in the playlist
+myMix.addSong("The Weeknd");
 myMix.playFirst(); // Playing the first song in the playlist
 myMix.skipSong(); // This will skip the first song and play the next one
 myMix.listSongs(); // Listing all songs in the playlist
